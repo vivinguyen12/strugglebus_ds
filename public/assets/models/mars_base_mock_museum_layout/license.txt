@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mars Base Mock Museum Layout
+* source:	https://sketchfab.com/3d-models/mars-base-mock-museum-layout-f7f0159d9d7a4e63bd85f752958a8ad9
+* author:	pocketisland (https://sketchfab.com/pocketisland)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mars Base Mock Museum Layout" (https://sketchfab.com/3d-models/mars-base-mock-museum-layout-f7f0159d9d7a4e63bd85f752958a8ad9) by pocketisland (https://sketchfab.com/pocketisland) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
