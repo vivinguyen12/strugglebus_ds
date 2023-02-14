@@ -1,0 +1,22 @@
+{
+  "name": "strugglebus_ds",
+  "version": "1.0.0",
+  "description": "Repository for StruggleBus IMD3901 Final Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivinguyen12/strugglebus_ds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivinguyen12/strugglebus_ds/issues"
+  },
+  "homepage": "https://github.com/vivinguyen12/strugglebus_ds#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
